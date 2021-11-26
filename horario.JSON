@@ -1,7 +1,11 @@
-[
 
-	{
-		"id": 1,
+{
+  "universidad": "Universidad Autonoma de Santo Domingo",
+  "carrera": "Licenciatura en informatica",
+  "semestre": "2021-2",
+  "materias": [
+    {
+
 		"asignatura": "Analisis y Diseno - INF 3290 - 07",
 		"hora": "4:00 -6:50 PM",
 		"codigo": "Ma",
@@ -11,7 +15,6 @@
 		"profesor": "Edward Rafael Martinez Lantigua"
 	},
 	{
-		"id": 2,
 		"asignatura": "Analisis y Diseno - INF 3290 - 07",
 		"hora": "4:00 -6:50 PM",
 		"codigo": "Ju",
@@ -22,5 +25,4 @@
 	}
 
 ]
-
 
