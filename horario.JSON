@@ -1,0 +1,26 @@
+[
+
+	{
+		"id": 1,
+		"asignatura": "Analisis y Diseno - INF 3290 - 07",
+		"hora": "4:00 -6:50 PM",
+		"codigo": "Ma",
+		"lugar": "REGIONAL ATLANTICO - 207",
+		"periodo": "Sep 13, 2021 - Dic 12, 2021",
+		"tipo": "Teoria",
+		"profesor": "Edward Rafael Martinez Lantigua"
+	},
+	{
+		"id": 2,
+		"asignatura": "Analisis y Diseno - INF 3290 - 07",
+		"hora": "4:00 -6:50 PM",
+		"codigo": "Ju",
+		"lugar": "REGIONAL ATLANTICO - 105",
+		"periodo": "Sep 13, 2021 - Dic 12, 2021",
+		"tipo": "Teoria",
+		"profesor": "Edward Rafael Martinez Lantigua"
+	}
+
+]
+
+
